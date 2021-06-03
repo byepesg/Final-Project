@@ -4,7 +4,7 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
-  <h1>Hola este es nuestro proyecto cherry con vue.js y Bootstrap</h1>
+  <h1>Prueba Once de La Noche</h1>
   <router-view/>
 
 </template>
